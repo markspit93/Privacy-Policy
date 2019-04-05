@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Mark Spiteri built the Chronolist app as a Freemium app. This SERVICE is provided by Mark Spiteri at no cost and is intended for use as is.
+Mark Spiteri built the Chrono List app as a Freemium app. This SERVICE is provided by Mark Spiteri at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
